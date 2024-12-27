@@ -5,6 +5,7 @@ A simple JavaScript project demonstrating fundamental programming concepts throu
 ## Features
 - **Arithmetic Operations**: Perform addition, multiplication, division, and more.
 - **User Interaction**: Input numbers and receive instant feedback.
-
+**Functions**: Reusable functions for sum, product, and division.
+  
 - ## Live Demo
 Try it here: [JavaScript Basics Task](https://mostafa-obiedat.github.io/Javascript-basic/)
